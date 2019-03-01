@@ -1,7 +1,7 @@
 # Playtest for [Boy Adventure the Game ]
 
 * Game Publisher
-* Game Rating
+* 4 i like games like this simple but make you think plus  i am a sucker for old school games 
 * [Game Title Website] https://jjonatansosa.itch.io/boy-adventure-the-game
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
