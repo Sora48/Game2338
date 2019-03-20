@@ -8,7 +8,7 @@
 > the rule where not clear if you do not scroll down to see exactly what to do 
 
 **Question:** During gameplay did you notice anything that shouldn't be in the game or could be removed and it wouldn't effect game play?
-> mo the game seems fair it just take time and rhythm 
+> no the game seems fair it just takes time and rhythm to get used to 
 
 **Question:** Is this game balanced? If not, what is the target audience for this game based on that imbalance?
 > the game is balanced just challenge for the everyday gamer i think this game is driven for the hardcore gamer that likes the challenge 
