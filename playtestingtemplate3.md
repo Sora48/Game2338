@@ -2,7 +2,7 @@
 
 * Game Publisher QKY GAMES 
 * Game Rating    this game is a 1 it need more story of what we are doing more help with the mechanics and more detail.
-* [Game Title Website](www.addictinggames.com/action-games/spear-stickman-game.jsp)
+* [Game Title Website]  (www.addictinggames.com/action-games/spear-stickman-game.jsp)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > no the rules are not explaing i think you are able to pick them up on what to do but the rules or not set.
