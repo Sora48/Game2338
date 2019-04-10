@@ -1,9 +1,18 @@
-What is the name of the test tool? pingdom, GTmetrix
+What is the name of the test tool? pingdom, GTmetrix, ranorex
 
 What company developed this test tool?
 SolarWinds DevOps solution(pingdom)
 
 GTmetrix was developed by GT.net
+
+Ranorex GmbH
+
+
+
+ranorex 
+
+Test Tools for pingdom,GTmetrix, Ranorex 
+
 
 Give at least 3 features of this test tool.
 (Pingdom)
@@ -13,7 +22,7 @@ Test your website's availability every minute, automatically, with over 60 globa
 
 
 
-(Vistor insight 
+(Vistor insight  features 
 Continuously enhance the user experience on your websites or web apps. 
 Be the first to know when site issues affect your visitor's experience and get the information you need to resolve issues quickly.)
 
@@ -25,7 +34,7 @@ Make sure important interactions, such as signup, search, or downloadable files,
 
 
 
-(GTmetrix)
+(GTmetrix) features 
 (Save Report Data)
 Save and track multiple URLs from one location. Keep your reports for as long as you want.
 
@@ -35,6 +44,19 @@ Analyze the page load of your site from 28 servers in 7 different regions around
 
 (Get a summary of key performance indicators)
 GTmetrix's Report Page neatly summarizes your page performance based off key indicators of page load speed.
+
+
+
+(ranorex) features 
+All-in-one test automation
+Accelerate testing for desktop, web and mobile applications.
+
+Robust object identification
+Analyze your AUT with Ranorex Spy, identify elements with RanoreXPath and maintain them in the object repository.
+Instantly track and analyze UI elements of your desktop, web, or mobile application with Ranorex Spy – even dynamic ones! Use the robust object recognition mechanisms as key to successful test automation. Receive detailed control information on the UI element to use for validations, as well as get its unique RanoreXPath – a powerful object identification syntax.
+
+Code editor 
+Create flexible test automation scripts using standard programming languages.
 
 
 
