@@ -3,23 +3,23 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * # 1 
 * Test Case Name:
-  * #Number
+  * #Tutorial part /visual/stickyspots/ai get stuck 
 * Component: 
   * Description
 * Test Case Designer:
-  * Name
+  * Kam 
 * Creation Date:
-  * Date
+  * april 16 2019
 * Modified By:
-  * Name
+  * 
 * Modified Date:
   * Date
 * Requirements Covered:
-  * Description
+  * turtorials 
 * Test Description/Purpose:
-  * Description
+  * tutorial seeing if the basic mechanics
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
