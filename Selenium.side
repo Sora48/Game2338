@@ -1,0 +1,79 @@
+{
+  "id": "9b212fe4-62d2-42ea-9e48-be44e96d96fa",
+  "version": "2.0",
+  "name": "kamignwebsite",
+  "url": "https://www.ign.com",
+  "tests": [{
+    "id": "a9a95405-72ae-404c-a821-d6e83c82c7da",
+    "name": "ign_firsttest",
+    "commands": [{
+      "id": "4b2cc4e0-3e1d-4622-8677-b233c90f8edb",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9922d844-d088-421e-a748-1a92bdd6e4ba",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1310x691",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1250df50-c125-4323-8514-3c5e110cc73c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.card:nth-child(1) .image",
+      "targets": [
+        ["css=.card:nth-child(1) .image", "css:finder"],
+        ["xpath=//img[@alt=\"Sonic Movie to 'Fix' Design After Fan Outcry\"]", "xpath:img"],
+        ["xpath=//div/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5da3a414-67ad-44f5-8e9d-026440b70ebf",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Sonic the Hedgehog: The Movie",
+      "targets": [
+        ["linkText=Sonic the Hedgehog: The Movie", "linkText"],
+        ["css=.jsx-3388993825:nth-child(4) > .jsx-3388993825", "css:finder"],
+        ["xpath=//a[contains(text(),'Sonic the Hedgehog: The Movie')]", "xpath:link"],
+        ["xpath=//div[@id='page']/header/div/nav/nav/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/movies/sonic-the-hedgehog-the-movie')]", "xpath:href"],
+        ["xpath=//nav/ul/li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Sonic the Hedgehog: The Movie')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "6e584f3b-7616-4f05-978d-33127a1654df",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9eee77cc-e04c-47bb-8034-007dca619762",
+      "comment": "",
+      "command": "click",
+      "target": "css=.five-up-items",
+      "targets": [
+        ["css=.five-up-items", "css:finder"],
+        ["xpath=//div[@id='page']/div[2]/main/div/div/div[2]", "xpath:idRelative"],
+        ["xpath=//main/div/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ae6b5831-8053-48b6-ab83-8f71cbb38ce7",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["a9a95405-72ae-404c-a821-d6e83c82c7da"]
+  }],
+  "urls": ["https://www.ign.com/"],
+  "plugins": []
+}
